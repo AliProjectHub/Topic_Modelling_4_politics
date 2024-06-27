@@ -3,7 +3,7 @@
 :sparkles: Welcome to this repo documenting my final submission to the Seminar Machine Learning for Natural Language Processing at Humboldt University Berlin. 
 
 ## Content
-:snake: Python Notebook (as .ipynb and .py)
+:snake: Python Notebook (as .ipynb)
 
 :data_folder: Data Input Files needed to sucessfully execute the Notebook 
 
